@@ -1,14 +1,14 @@
-1. Think about the last app you used on your phone. What are its core hardware, software, and data components? What problem does it solve for you?
+# 1. Think about the last app you used on your phone. What are its core hardware, software, and data components? What problem does it solve for you?
 
 App: Line (a messaging app)
 
 Problem Solved: Line allows me to communicate instantly with family and friends, no matter where they are. It solves the problem of distance and time, allowing for both casual chats and important conversations. Additionally, it helps me manage multiple conversations through group chats and enables media sharing (photos, videos) easily.
 
-2. Imagine you have to create a new information system for your favorite coffee shop. How would it help the staff with their processes? Who are the key people who would use it?
+# 2. Imagine you have to create a new information system for your favorite coffee shop. How would it help the staff with their processes? Who are the key people who would use it?
 
 System Purpose: A comprehensive Point of Sale (POS) system for order taking, payment processing, inventory tracking, and customer loyalty management.
 
-3. The material says IS helps organizations gain a competitive advantage. Can you think of a company that uses an IS so well it seems like their secret weapon? What makes their system so special?
+# 3. The material says IS helps organizations gain a competitive advantage. Can you think of a company that uses an IS so well it seems like their secret weapon? What makes their system so special?
 
 Example: Netflix
 
@@ -22,7 +22,7 @@ Machine Learning: The system continuously learns from user interactions, adaptin
 
 Competitive Advantage: By leveraging data and AI, Netflix can stay ahead of competitors and create original content that appeals to global audiences.
 
-4. You're the "people" component of an IS. A new system is being implemented at your workplace, and it's making your job harder, not easier. What would you do? How would you communicate your concerns?
+# 4. You're the "people" component of an IS. A new system is being implemented at your workplace, and it's making your job harder, not easier. What would you do? How would you communicate your concerns?
 
 Action Steps:
 
