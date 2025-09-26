@@ -34,7 +34,7 @@ Communicate Concerns to Management or IT: I’d arrange a meeting with my superv
 
 Offer Constructive Feedback: It’s essential to frame the feedback in a constructive way, emphasizing how improving the system can enhance productivity for everyone involved.
 
-5. What's one everyday problem you have that could be solved by a simple IS?
+## 5. What's one everyday problem you have that could be solved by a simple IS?
 
 Problem: Managing daily expenses and staying within a budget.
 
