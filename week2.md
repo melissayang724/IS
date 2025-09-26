@@ -1,0 +1,3 @@
+# Information in Your Bank App: When you check your banking app, you see your current balance. What is the raw data that had to be collected and processed to generate that single piece of information (your balance)?
+In your bank app, **data** refers to raw details like individual transactions (deposits, withdrawals, transfers) and account activities. **Information** is the processed result, like your current balance, which is calculated by summing all relevant transactions.
+The 'System' of Online Shopping: Describe your process for buying a textbook online (from search to checkout). Identify one piece of hardware and one piece of software that is essential for this system to function.
